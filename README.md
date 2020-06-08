@@ -10,3 +10,7 @@ npm install
 
 ## Link de nombre en heroku es 
 ### sockets-23-gmd
+
+# Socket basico en produccion 
+
+##### https://sockets-23-gmd.herokuapp.com/
