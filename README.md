@@ -7,3 +7,6 @@ Recuerden que deben de reconstruir los módulos de node con el comando
 ```
 npm install
 ```
+
+## Link de nombre en heroku es 
+### sockets-23-gmd
